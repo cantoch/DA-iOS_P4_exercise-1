@@ -11,7 +11,7 @@ struct ToDoListView: View {
     
     var body: some View {
         NavigationView {
-            VStack {
+            VStack { 
                 // Filter selector
                 // TODO: - Add a filter selector which will call the viewModel for updating the displayed data
                 // List of tasks
